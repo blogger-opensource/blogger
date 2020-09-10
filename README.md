@@ -7,11 +7,8 @@
  * Country: Viet Nam
  * Year: 2020
  * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER
-Java open source e-commerce software
+ 
+# Java open source software
 
-    Shopping cart
-    Catalogue
-    Search
-    Checkout
-    Administration
-    REST API
+ * Administration
+ * REST API
