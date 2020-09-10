@@ -1,4 +1,4 @@
-# Blogger Opensource
+# Blogger Opensource (for java 1.8 +)
 
  * Author: Richard
  * Email: richardvu.work@gmail.com
@@ -7,3 +7,11 @@
  * Country: Viet Nam
  * Year: 2020
  * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER
+Java open source e-commerce software
+
+    Shopping cart
+    Catalogue
+    Search
+    Checkout
+    Administration
+    REST API
